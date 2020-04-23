@@ -1,0 +1,60 @@
+head {
+    text-align: center;  
+    font-family: "Permanent Marker", cursive;
+    color: black;
+}
+body {
+    text-align: center;  
+    font-family: "Permanent Marker", cursive;
+    color: black;
+    background-color:#ffde22;
+}
+.image { 
+    width: 648px;
+    height: 432px;
+    text-align: center; 
+}
+ul {
+	list-style-type: none;
+	padding: 0px;
+	overflow: hidden;
+	margin: auto;
+	width: 500px;
+	height: 40px;
+}
+li {
+  float: left;
+  text-align: center;
+}
+
+li a {
+  display: block;
+  color: black;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+}
+
+.basic {
+	text-align: center;  
+    font-family: "Permanent Marker", cursive;
+    color: black;
+	font-size: 20px;
+
+}
+.basic1 {
+	text-align: center;  
+    font-family: "Permanent Marker", cursive;
+    color: black;
+	font-size: 20px; 
+	text-decoration: none;
+}
+#titles{
+	font-size:30px;
+	font-family:"Permanent Marker", cursive;
+}
+#titles1{
+	font-size:40px;
+	font-family:"Permanent Marker", cursive;
+	
+}
